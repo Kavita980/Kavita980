@@ -87,7 +87,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/OriginalMeet/OriginalMeet">
+<a href="https://github.com/Kavita980/Kavita980">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
 
